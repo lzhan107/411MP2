@@ -1,0 +1,48 @@
+Application will now be sleeping for 5 seconds
+Applicaiton is waking up
+The time difference between serialization and deserialization is 5 seconds
+1> Statistics for the population increase based on estimate
+   • For the year 2010, the population increases based on estimate are:
+   • For region 0,the increase rate is: 0.19%
+   • For region 1,the increase rate is: 0.09%
+   • For region 2,the increase rate is: 0.07%
+   • For region 3,the increase rate is: 0.26%
+   • For region 4,the increase rate is: 0.26%
+-----------------------------------------------------------------------------
+   • For the year 2011, the population increases based on estimate are:
+   • For region 0,the increase rate is: 0.73%
+   • For region 1,the increase rate is: 0.28%
+   • For region 2,the increase rate is: 0.27%
+   • For region 3,the increase rate is: 1.04%
+   • For region 4,the increase rate is: 1.02%
+
+2> Statistics for max & min births per state per year(Including Puerto Rico Commonwealth)
+   • For the year 2010, the state with minimum births is: Vermont | And the birth number is: 1530
+   • For the year 2010, the state with maximum births is: California | And the birth number is: 123173
+   • For the year 2010, the state with minimum births is: Vermont | And the birth number is: 5955
+
+
+3> Statistics for max & min deaths per state per year(Including Puerto Rico Commonwealth)
+   • For the year 2010, the state with minimum deaths is: Alaska | And the death number is: 647
+   • For the year 2010, the state with minimum deaths is: California | And the death number is: 57867
+   • For the year 2011, the state with minimum deaths is: Alaska | And the death number is: 3338
+   • For the year 2011, the state with minimum deaths is: California | And the death number is: 234045
+
+
+4> Statistics for Number of states with estimated population increase(Including Puerto Rico Commonwealth)
+   • For the year 2010, the number of states with estimate population increase is: 48
+   • For the year 2011, the number of states with estimate population increase is: 49
+
+5> Statistics for Number of states with estimated population decrease(Including Puerto Rico Commonwealth)
+   • For the year 2010, the number of states with estimate population decrease is: 3
+   • For the year 2011, the number of states with estimate population decrease is: 2
+
+
+6> Statistics for state with most estimated population per year(Including Puerto Rico Commonwealth)
+   • For the year 2010, the state with least estimated population is: Wyoming | And the estimated population is: 564554
+   • For the year 2010, the state with most estimated population is: California | And the estimated population is: 37338198
+
+
+7> Statistics for state with least estimated population per year(Including Puerto Rico Commonwealth)
+   • For the year 2011, the state with least estimated population is: Wyoming | And the estimated population is: 568158
+   • For the year 2011, the state with most estimated population is: California | And the estimated population is: 37691912
